@@ -11,5 +11,8 @@
   },
   "workspaces": [
     "packages/*"
-  ]
+  ],
+  "engines": {
+    "coc": "^0.0.80"
+  }
 }
